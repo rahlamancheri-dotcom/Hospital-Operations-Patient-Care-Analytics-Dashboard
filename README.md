@@ -82,7 +82,8 @@ It can be used to:
 
 ## 📷 Dashboard Preview
 
-![Hospital Operations & Patient Care Analytics Dashboard](dashboardss.png)
+![<img width="566" height="435" alt="dashboardss" src="https://github.com/user-attachments/assets/00850f6d-c6a4-4a7f-986b-c3898b82119c" />
+]
 
 ## 📁 Project Name
 
